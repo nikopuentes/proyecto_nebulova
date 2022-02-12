@@ -76,6 +76,12 @@ else:
 
 
 
+valores = [11,2,3,1,7,9,20,1, 11,3,4,3]
+statistics.mean(valores)
+statistics.median(valores)
+statistics.mode(valores)
+statistics.quantiles(valores, n=4, method='exclusive')
+statistics.quantiles(valores, method='inclusive')
 
 
 
