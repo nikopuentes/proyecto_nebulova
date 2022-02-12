@@ -11,7 +11,7 @@ help(math)
 
 
 math.ceil(5.9) # redondear al numero entero superior
-math.floor(5.9) # redondear al numero entero inferior
+math.floor(25.6545415) # redondear al numero entero inferior
 
 math.pi
 math.inf
