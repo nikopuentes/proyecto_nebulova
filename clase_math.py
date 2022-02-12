@@ -75,6 +75,9 @@ else:
     print("dentro") 
 
 
+a = [1,2,3]
+b = [2,3,4]
+math.dist(a, b)
 
 valores = [11,2,3,1,7,9,20,1, 11,3,4,3]
 statistics.mean(valores)
