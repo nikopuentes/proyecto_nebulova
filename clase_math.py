@@ -11,7 +11,6 @@ help(math)
 
 
 math.ceil(5.9) # redondear al numero entero superior
-ceil(3.1) # solo cuando importo la funcion directamente
 math.floor(5.9) # redondear al numero entero inferior
 
 math.pi
