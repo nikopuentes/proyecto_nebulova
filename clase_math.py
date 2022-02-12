@@ -68,6 +68,12 @@ else:
     print("dentro") 
 
 
+if distancia > 100: 
+    print("fuera") 
+
+else: 
+    print("dentro") 
+
 
 
 
