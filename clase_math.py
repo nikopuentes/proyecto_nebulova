@@ -75,6 +75,9 @@ else:
     print("dentro") 
 
 
+a = [1,2,3]
+b = [2,3,4]
+math.dist(a, b)
 
 
 
