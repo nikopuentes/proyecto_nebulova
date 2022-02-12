@@ -9,7 +9,7 @@ dir(math)
 help(math)
 # https://docs.python.org/3.8/library/math.html
 
-math.floor(16,69) # redondear al numero entero inferior
+math.floor(19,89) # redondear al numero entero inferior
 
 math.pi
 math.inf
