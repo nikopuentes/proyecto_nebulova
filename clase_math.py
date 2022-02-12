@@ -27,7 +27,7 @@ math.log(5)
 math.log1p(5) # math.log(x +1)
 
 5 ** (1/2)
-math.sqrt(5)
+math.sqrt(500000000)
 
 math.isnan(math.nan) # True o False si el valor es nan o no
 math.isnan(5)
